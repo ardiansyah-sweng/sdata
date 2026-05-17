@@ -266,6 +266,8 @@ Setiap folder bisa berisi berapa pun subfolder dan file di dalamnya — tidak ad
     └── 📄 catatan.txt
 ```
 
+Ingin tahu bagaimana proses pembuatannya dari nol? Silakan simak di [`General Tree Cpp`](general-tree-cpp.md).
+
 ---
 
 ### 🌐 DOM pada Halaman Web
